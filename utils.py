@@ -595,7 +595,7 @@ def parse_args():
     # ----Batch Size and Training Steps----
     parser.add_argument(
         "--train_batch_size", 
-        type=int, default=1, 
+        type=int, default=12, 
         help="Batch size (per device) for the training dataloader."
     )
     parser.add_argument(
