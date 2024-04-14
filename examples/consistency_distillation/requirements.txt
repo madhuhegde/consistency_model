@@ -1,5 +1,8 @@
 accelerate>=0.16.0
 torchvision
+wandb
+bitsandbytes
+xformers
 transformers>=4.25.1
 ftfy
 tensorboard
